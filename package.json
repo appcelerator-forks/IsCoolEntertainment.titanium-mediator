@@ -1,0 +1,22 @@
+{
+  "name": "titanium-mediator",
+  "version": "0.0.0",
+  "description": "An advanced event manager for Titanium inspired by jQuery & Backbone",
+  "main": "mediator.js",
+  "scripts": {
+    "test": "./node_modules/.bin/expresso"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dawicorti/titanium-mediator.git"
+  },
+  "author": "David Corticchiato",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/dawicorti/titanium-mediator/issues"
+  },
+  "dependencies": {
+    "backbone": "~1.0.0",
+    "expresso": "~0.9.2"
+  }
+}
