@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/dawicorti/titanium-mediator.png?branch=master)](https://travis-ci.org/dawicorti/titanium-mediator)
+
 # Titanium Mediator
 
   An advanced event manager for [Titanium](http://www.appcelerator.com/titanium/) inspired by [jQuery](http://api.jquery.com/one/) and [Backbone](http://backbonejs.org/#Events).
