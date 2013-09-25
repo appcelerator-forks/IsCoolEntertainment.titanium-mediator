@@ -1,6 +1,6 @@
 {
   "name": "titanium-mediator",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "An advanced event manager for Titanium inspired by jQuery & Backbone",
   "main": "mediator.js",
   "scripts": {
